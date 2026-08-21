@@ -167,7 +167,7 @@ The cleaning stage helps ensure that the data is consistent and reliable for fur
 
 ---
 
-03 — Exploratory Data Analysis
+## 03 — Exploratory Data Analysis
 
 The exploratory analysis stage was used to understand the overall characteristics of the food delivery business.
 
@@ -189,7 +189,7 @@ Delivery time analysis
 
 ---
 
-04 — Business Questions
+## 04 — Business Questions
 
 The analysis was then used to answer practical business questions.
 
@@ -233,7 +233,7 @@ Cancelled Orders	1,662
 
 ---
 
-🚀 05 — Advanced SQL Analysis
+🚀 ## 05 — Advanced SQL Analysis
 
 The final stage focused on applying advanced SQL concepts to solve analytical problems.
 
