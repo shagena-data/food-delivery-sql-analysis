@@ -162,7 +162,8 @@ The second stage focused on identifying and handling potential data-quality issu
 TRIM(restaurant_name)
 The cleaning stage helps ensure that the data is consistent and reliable for further analysis.
 
-Screenshot
+##Screenshot
+![Data Cleaning](screenshots/02_data_cleaning.png)
 
 03 — Exploratory Data Analysis
 
@@ -179,7 +180,9 @@ Payment method analysis
 Delivery status analysis
 Customer rating analysis
 Delivery time analysis
-Screenshot
+
+##Screenshot
+![Exploratory Data Analysis](screenshots/03_exploratory_analysis.png)
 
 
 04 — Business Questions
@@ -219,7 +222,9 @@ Average Delivery Time	46.43 minutes
 Delivered Orders	6,737
 Delayed Orders	1,601
 Cancelled Orders	1,662
-Screenshot
+
+##Screenshot
+![Business Questions](screenshots/04_business_questions.png)
 
 
 🚀 05 — Advanced SQL Analysis
@@ -263,10 +268,12 @@ Highest and Lowest Orders
 
 FIRST_VALUE() and LAST_VALUE() were used to identify the highest and lowest order values within each city.
 
-Screenshots
+##Screenshots
 Advanced SQL Code
+![Advanced SQL Code](screenshots/05_advanced_sql_code.png)
 
 Advanced SQL Result
+![Advanced SQL Result](screenshots/05_advanced_sql_result.png)
 
 📁 Project Structure
 food-delivery-sql-analysis/
